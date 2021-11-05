@@ -9,6 +9,6 @@
 
 <p align="center"
 <a href="https://www.linkedin.com/in/raunak7/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="raunak7" height="20" width="20" /></a>
-<a href="https://www.facebook.com/yunika.upadhayaya" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="yunika.upadhayaya" height="20" width="20" /></a>
-  <a href="https://twitter.com/UpadhyayaYunika" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="UpadhyayaYunika" height="20" width="20" /></a>
+<a href="https://www.facebook.com/raunak.kunwar.798" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="raunak.kunwar.798" height="20" width="20" /></a>
+  <a href="https://twitter.com/ronnie_begins" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="ronnie_begins" height="20" width="20" /></a>
 </p>
