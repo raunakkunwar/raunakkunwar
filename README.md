@@ -1,4 +1,4 @@
-<p>Hi, I'm Raunak Kunwar. I am a Junior pursuing Computer Science degree at UT Arlington interested in Software Development and Machine Learning. I am an enthusiastic learner with decent programming skills (Python, Java, C++, C) looking to expand my knowledge. </p>
+<p>Hi, I'm Raunak Kunwar. I am a Senior pursuing Computer Science degree at UT Arlington interested in Software Development and Machine Learning. I am an enthusiastic learner with decent programming skills (Python, Java, C++, C) looking to expand my knowledge. </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunakkunwar" alt="raunakkunwar" /> </p>
 
