@@ -1,4 +1,5 @@
-<p>Hi, I'm Raunak Kunwar. I am a Senior pursuing Computer Science degree at UT Arlington interested in Software Development and Machine Learning. I am an enthusiastic learner with decent programming skills (Python, Java, C++, C) looking to expand my knowledge. </p>
+<p>Hey there, I'm Raunak Kunwar, a Python and Java specialist with a passion for efficient problem-solving. Currently pursuing my master's degree in Computer Science, I optimize data processes using Python scripting, SQL tools, and cloud tech. In a previous role, I led a team of Machine Learning engineers to create a successful Spanish language learning app.
+ </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunakkunwar" alt="raunakkunwar" /> </p>
 
