@@ -2,7 +2,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raunakkunwar&color=blueviolet" alt="raunakkunwar" /> </p>
 
-A passionate and results-driven AI/ML specialist and Master's in Computer Science candidate with a talent for building intelligent systems and optimizing complex data pipelines. My expertise lies in Python, Java, and a wide array of machine learning frameworks and cloud technologies. I thrive on solving challenging problems and have a proven track record of leading technical teams to deliver successful, data-driven products.
+A passionate and results-driven AI/ML specialist and Master's in Computer Science candidate with a talent for building intelligent systems and optimizing complex data pipelines. My expertise lies in Python, Java, and a wide array of machine learning frameworks and cloud technologies. I enjoy solving complex, data-rich problems and am particularly fascinated by applying advanced machine learning techniques to predict stock market trends.
 
 - 🔭 I’m currently exploring advanced topics in **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**.
 - 🌱 As a **Research Assistant** at The University of Texas at Arlington, I develop explainable, multimodal AI systems (Transformers, CNNs) to decode EEG signals for identifying cognitive biomarkers and predicting mental states.
