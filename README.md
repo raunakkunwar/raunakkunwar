@@ -5,7 +5,7 @@
 A passionate and results-driven AI/ML specialist and Master's in Computer Science candidate with a talent for building intelligent systems and optimizing complex data pipelines. My expertise lies in Python, Java, and a wide array of machine learning frameworks and cloud technologies. I thrive on solving challenging problems and have a proven track record of leading technical teams to deliver successful, data-driven products.
 
 - 🔭 I’m currently exploring advanced topics in **Natural Language Processing (NLP)** and **Large Language Models (LLMs)**.
-- 🌱 I’m currently learning more about **Reinforcement Learning** and its applications.
+- 🌱 As a **Research Assistant** at The University of Texas at Arlington, I develop explainable, multimodal AI systems (Transformers, CNNs) to decode EEG signals for identifying cognitive biomarkers and predicting mental states.
 - 👯 I’m looking to collaborate on open-source **AI projects**, especially those involving generative AI or ethical AI.
 - 💬 Ask me about **Python, Machine Learning, Deep Learning, MLOps, or Cloud Deployment**.
 - 📫 How to reach me: **[LinkedIn](https://www.linkedin.com/in/raunak7/)** or by email.
